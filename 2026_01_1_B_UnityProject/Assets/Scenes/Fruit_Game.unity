@@ -259,7 +259,7 @@ GameObject:
   - component: {fileID: 420067584}
   - component: {fileID: 420067583}
   m_Layer: 0
-  m_Name: Quad (1)
+  m_Name: LeftWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -533,7 +533,7 @@ GameObject:
   - component: {fileID: 1000046975}
   - component: {fileID: 1000046974}
   m_Layer: 0
-  m_Name: Quad
+  m_Name: RightWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -738,7 +738,7 @@ GameObject:
   - component: {fileID: 1749470428}
   - component: {fileID: 1749470427}
   m_Layer: 0
-  m_Name: Quad (2)
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
